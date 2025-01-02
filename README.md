@@ -1,15 +1,30 @@
-- 👋 Hi, I’m Aaron. I share the same name with the guy who congress looks to for their updates in the cybersecurity world, so I often find myself under attack by his many rivals.
-- 👀 1st and foremost I'm 100% fully enlightened by the definition of enlightment given to us via Buddha. Well he is the closest to exactly what God told me face to face when I briefly died. That being said 90% of my day I'm either interested in meditation and/or anythin and everything to do with what humans refer to as; God, and our higher selves. I want to be crystal clear.... I am awoken in the most spiritual sense of the word, and I do not believe any organized religious claims. In all honesty; if there were going to be 2 False prophets, I can tell you according to the source of everything that is, the Organized religions themselves and those who head them; and Im mostly reffering to muslims, islam, and the thousands of varieties of christians. All claim to be or have prophets.... so, Logically that's where you will find each and evry false one. You have to be a revered Prophet first before you can be deemed a false prophet. True prophets aren't labeled as such due to the resistances in Societies religious delusions.     Besides that im deeply focused on ethical hacking and making it my lifes mission to see to it that scam hackers and the like go extinct.
-- 🌱 I’m currently learning the Foundations of Cybersecurity @Merit America using @Coursera to earn my certs.
-- 💞️ I’m looking to collaborate on whatever my lifes road lays ahead of me. Im hoping to one day develop a system for each and every human on this spaceship we call Earth to be fluent in enterprise level cybersecurity by the end of there junior high grade schooling. I whole heartedly believe that with any and all things internet related, especially because the way things are going these days within the cyber landscape, that no man, woman, or child should be aloud to access all things internet until they can prove they are knowledgable enough to mitigate any malicious attack that may come their way.
-- 📫 You can reach me the same way you think you can reach God. Trust me I'll get the message. For those not on that level yet you can call or text me at 1-804-413-6738, email me at aaron.pope.turner@gmail.com, or chat me up on slack...find me here: https://meritamericalearners.slack.com/team/U0727D5BZRC @Aaron Turner. Lastly you can find me at linked in by following this link: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="aaron-turner-6216ab30b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/aaron-turner-6216ab30b?trk=profile-badge">Aaron Turner</a></div>
-- 😄 Pronouns: This should be banned
-- ⚡ Fun fact: You are God and I can prove it to satisfaction for you. Just ask if you would like to wake up.
+# 👾 God Experiencing Aaron 👾
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+Welcome to my digital realm! Here lies the code-bound chronicles of God Experiencing Aaron—your friendly, neighborhood ethical hacker turned aspiring code sorcerer. 🌟
 
-<!---
-aaron-pope-turner/aaron-pope-turner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-              
+## Who am I?
+
+I'm **Aaron**, but I prefer **God Experiencing Aaron**. Why settle for ordinary when you can be extraordinary? 
+
+## What I'm Into:
+
+- **Ethical Hacking**: Self-taught and ready to ethically hack the Matrix. Neo, eat your heart out. 💻
+- **Coding & Programming**: The siren calls of code have lured me into their depths. I might switch sides and go full-on coder. We'll see where this rabbit hole leads. 🐇
+- **Reality Manifestation App**: I've coded an app in Python that helps you craft your own reality in real-time through intention. Think of it as the ultimate manifestation tool for the digital age. 🧘‍♂️✨
+
+## My Adventures:
+
+So far, I've created one app (cue the applause 🎉): a Python masterpiece designed to assist you in creating your own reality. Yes, you read that right. No, I'm not kidding. Actual manifestation, folks.
+
+## Challenges:
+
+When I'm not busy coding or manifesting realities, I'm dealing with a persistent, overly-obsessed malicious hacker. Because who doesn't love a little extra excitement in their life, right? 🙃
+
+## Stay Tuned:
+
+Join me on this journey as I navigate the realms of ethical hacking and coding, one line of code at a time. And remember, reality is just a hack away.
+
+---
+
+*Disclaimer: No actual gods were harmed in the making of this README. Malicious hackers, on the other hand, beware.* 🔒
+
